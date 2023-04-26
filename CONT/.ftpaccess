@@ -1,0 +1,6 @@
+
+<Limit LOGIN ALL>
+Order allow,deny
+Allow from 202.220.206.240	#mobile static
+Deny from all
+</Limit>
